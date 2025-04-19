@@ -1,0 +1,6 @@
+* atcoder-env
+** copy cpp template to ~~/.config/atcoder-cli-nodejs/~
+** create a compile database
+#+begin_src sh
+  bear -- make
+#+end_src
